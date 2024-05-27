@@ -24,7 +24,7 @@ looker　一覧作成
 */
 
 ////////////////////////////////////////////////////////////
-const shopName = "ぼんた";
+const shopName = "ジンギスカンぼんた";
 const menu_left = "牛ハラミ";
 const menu_right = "ラム肩ロース";
 
